@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int ticket = 20000; // стоимость билета
+        int ticket = 50000; // стоимость билета
 
         int mileCost = 20; // стоимость 1 мили
 
